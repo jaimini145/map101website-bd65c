@@ -1,7 +1,13 @@
 ---
 title: Finance
 subtitle: A cautionary tale about riding
-excerpt: ''
+excerpt: >-
+  In every company, financial planning is a vital activity. It is the mechanism
+  by which financial resources are prepared, coordinated, managed and monitored
+  in order to achieve organizational goals and objectives.   It is an ideal
+  practice for monitoring an organization's financial transactions, such as fund
+  acquisition, fund utilization, accounting, payments, risk assessment, and all
+  other cash related stuff.
 date: '2018-01-23'
 thumb_img_path: images/finance.jpg
 content_img_path: images/3.jpg
