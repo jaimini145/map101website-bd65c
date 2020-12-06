@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'The '
+    title: 'The Taste of '
     content: All-natural ingredients
   - section_id: about
     type: section_content
