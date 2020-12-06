@@ -1,10 +1,9 @@
 ---
 title: Marketing
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  Marketing plays a huge role in company where there should be good marketing
+  plan based on proper study for research and facts. Marketing encourages or
+  attracts customers for products in the company to buy them.
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 content_img_path: images/2.jpg
