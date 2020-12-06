@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'The Taste of '
+    title: The Taste of Family
     content: All-natural ingredients
   - section_id: about
     type: section_content
