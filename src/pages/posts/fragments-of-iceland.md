@@ -5,7 +5,7 @@ excerpt: >-
   production, profitability and the well-being of the people and animals
   involved.
 date: '2019-03-27'
-content_img_path: images/7.jpg
+content_img_path: images/great-goose.jpg
 template: post
 thumb_img_path: images/futuristic-apple.jpg
 ---
