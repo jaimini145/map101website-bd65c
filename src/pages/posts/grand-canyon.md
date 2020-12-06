@@ -9,7 +9,7 @@ excerpt: >-
 date: '2019-03-10'
 content_img_path: images/8.jpg
 template: post
-thumb_img_path: images/Risk.jpg
+thumb_img_path: images/groovy-maple.jpg
 ---
 Increasing competition- Competition in the milk sector is increasing. More and more companies and brands are entering their markets and overtaking their profit. Competitors directly threaten the business.
 
