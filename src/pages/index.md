@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'The Taste of Family '
+    title: "The Taste of Family \U0001F468‍\U0001F468‍\U0001F467‍\U0001F467"
     content: All-natural ingredients
   - section_id: about
     type: section_content
