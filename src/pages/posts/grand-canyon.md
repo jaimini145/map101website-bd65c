@@ -8,6 +8,7 @@ excerpt: >-
 date: '2019-03-10'
 content_img_path: images/8.jpg
 template: post
+thumb_img_path: images/Risk.jpg
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
