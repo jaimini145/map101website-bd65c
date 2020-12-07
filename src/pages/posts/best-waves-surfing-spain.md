@@ -8,6 +8,7 @@ excerpt: >-
 date: '2018-01-15'
 content_img_path: images/4.jpg
 template: post
+thumb_img_path: images/spectacular-crane.jpg
 ---
 
 Photo by [George Sultan.](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)
