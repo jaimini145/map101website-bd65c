@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: "All Time Fresh\U0001F33F"
-    content: All-natural ingredients
+    content: All-natural ingredients and fresh products
   - section_id: about
     type: section_content
     title: About
