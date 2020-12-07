@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: All Time Freshle
+    title: "All Time Fresh\U0001F33F"
     content: All-natural ingredients
   - section_id: about
     type: section_content
