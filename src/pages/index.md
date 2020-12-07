@@ -10,9 +10,9 @@ sections:
     type: section_content
     title: 'About '
     content: >-
-      *To make it possible to produce quality food while improving food
+      "To make it possible to produce quality food while improving food
       production, profitability and the well-being of the people and animals
-      involved.
+      involved"
     actions: []
   - section_id: recent-posts
     type: section_posts
