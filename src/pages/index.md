@@ -8,7 +8,7 @@ sections:
     content: All-natural ingredients and fresh products
   - section_id: about
     type: section_content
-    title: 'About '
+    title: ''
     content: >-
       "To make it possible to produce quality food while improving food
       production, profitability and the well-being of the people and animals
