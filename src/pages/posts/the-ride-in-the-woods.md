@@ -1,6 +1,6 @@
 ---
 title: Finance
-subtitle: F
+subtitle: Financial pal
 excerpt: >-
   In every company, financial planning is a vital activity. It is the mechanism
   by which financial resources are prepared, coordinated, managed and monitored
