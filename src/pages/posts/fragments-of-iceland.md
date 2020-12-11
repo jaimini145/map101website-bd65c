@@ -4,7 +4,7 @@ excerpt: >-
   Our vision is to make it possible to produce quality food while improving food
   production, profitability and the well-being of the people and animals
   involved.
-date: '2019-12-27'
+date: '2020-12-27'
 content_img_path: images/great-goose.jpg
 template: post
 thumb_img_path: images/futuristic-apple.jpg
