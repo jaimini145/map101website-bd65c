@@ -1,5 +1,5 @@
 ---
-title: How To Choose An Interior Designer
+title: ''
 subtitle: ''
 excerpt: ''
 date: ''
