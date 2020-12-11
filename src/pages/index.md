@@ -10,7 +10,7 @@ sections:
     type: section_content
     title: ''
     content: >-
-      "To make it possible to produce quality food while improving food
+      "We make it possible to produce quality food while improving food
       production, profitability and the well-being of the people and animals
       involved"
     actions: []
