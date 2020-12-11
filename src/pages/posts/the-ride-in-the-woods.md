@@ -1,6 +1,6 @@
 ---
 title: Finance
-subtitle: 'Financial planning is important '
+subtitle: Financial planning is important in our organisation
 excerpt: >-
   In every company, financial planning is a vital activity. It is the mechanism
   by which financial resources are prepared, coordinated, managed and monitored
