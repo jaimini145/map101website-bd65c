@@ -8,7 +8,7 @@ date: '2019-03-27'
 content_img_path: images/great-goose.jpg
 template: post
 thumb_img_path: images/futuristic-apple.jpg
-subtitle: F
+subtitle: ''
 ---
 
 First, important aspect is to maintain good relations with customers insuring they are satisfied with the products and services provided. Our goal is to provide sustainable wealth to our stakeholders by giving them best quality food and at affordable prices. Other than that, we minimise food waste across the system.
