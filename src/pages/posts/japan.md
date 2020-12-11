@@ -6,7 +6,7 @@ excerpt: >-
   attracts customers for products in the company to buy them.
 date: '2019-03-24'
 thumb_img_path: images/market.jpg
-content_img_path: images/2.jpg
+content_img_path: images/melodic-mango.jpg
 template: post
 ---
 After that we should target market and identify our unique products why customers should buy a product from our company and not the competitors, it is important to be different among others in community. While there are many available marketing ways, Options include a business website, social media like Instagram or Facebook, blogging, brochure and flyers, banners, letter drops, print advertising. 
