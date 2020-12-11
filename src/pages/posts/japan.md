@@ -4,7 +4,7 @@ excerpt: >-
   Marketing plays a huge role in company where there should be good marketing
   plan based on proper study for research and facts. Marketing encourages or
   attracts customers for products in the company to buy them.
-date: '2020-12-24'
+date: '2020-12-01'
 thumb_img_path: images/market.jpg
 content_img_path: images/melodic-mango.jpg
 template: post
