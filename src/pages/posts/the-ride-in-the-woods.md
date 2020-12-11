@@ -10,7 +10,7 @@ excerpt: >-
   other cash related stuff.
 date: '2018-01-23'
 thumb_img_path: images/finance.jpg
-content_img_path: images/3.jpg
+content_img_path: images/maroon-neptune.jpg
 template: post
 ---
 Financial management is essential to the success of any organization, particularly in agriculture where there are so many factors beyond the control of the farmer (weather, prices, yields, etc.). 
