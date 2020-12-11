@@ -9,6 +9,8 @@ thumb_img_path: images/market.jpg
 content_img_path: images/melodic-mango.jpg
 template: post
 subtitle: Advanced Marketing
+canonical_url: >-
+  https://www.bing.com/images/search?q=marketing%20thought&qs=n&form=QBIR&sp=-1&pq=marketing%20thought&sc=8-17&cvid=C3AC96D5CEE44F1BB57E608CB51B7BB4&first=1&tsc=ImageHoverTitle
 ---
 After that we should target market and identify our unique products why customers should buy a product from our company and not the competitors, it is important to be different among others in community. While there are many available marketing ways, Options include a business website, social media like Instagram or Facebook, blogging, brochure and flyers, banners, letter drops, print advertising. 
 Marketing helps to know what we want to achieve and what it is going to cost us for website development, designs, promotional materials and all. As we should spend between 10% to 15% of income or yearly turnover on marketing. Customers are core to achieve success, so it is important to take care after them.
