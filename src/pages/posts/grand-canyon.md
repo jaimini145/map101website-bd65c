@@ -7,7 +7,7 @@ excerpt: >-
   to access distribution channel where distribution channels have been locked up
   by incumbents(officers).
 date: '2019-03-10'
-content_img_path: images/8.jpg
+content_img_path: images/perpetual-birch.jpg
 template: post
 thumb_img_path: images/risk1.jpg
 ---
