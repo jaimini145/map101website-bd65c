@@ -9,10 +9,15 @@ sections:
   - section_id: about
     type: section_content
     title: ''
-    content: >-
+    content: >+
       "We make it possible to produce quality food while improving food
       production, profitability and the well-being of the people and animals
       involved"
+
+
+      "Provide quality food and beverages to consumers at affrodable prices
+      while ensuring fair returns to the producers"
+
     actions: []
   - section_id: recent-posts
     type: section_posts
