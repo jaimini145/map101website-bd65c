@@ -1,6 +1,6 @@
 ---
 title: Finance
-subtitle: A cautionary tale about riding
+subtitle: ''
 excerpt: >-
   In every company, financial planning is a vital activity. It is the mechanism
   by which financial resources are prepared, coordinated, managed and monitored
