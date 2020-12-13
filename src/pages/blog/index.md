@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: About us
 template: blog
 ---
