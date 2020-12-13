@@ -15,7 +15,7 @@ sections:
       involved"
 
     actions: []
-    image: images/OIP.jpg
+    image: images/milk_glass_1.jpg
   - section_id: recent-posts
     type: section_posts
     title: Pages
