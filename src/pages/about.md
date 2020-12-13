@@ -13,3 +13,60 @@ But, as consumers generally are more price-focused, there has been a huge demand
 ###### Additionally, it has high quality products with reasonable prices. 
 
 According to my experience, people have different tastes and choices, so we need to produce food according to them what they want. We provide products equally to its quality, the fresh products with reasonable prices.
+
+
+**Calories table:**
+<div class="responsive-table">
+  <table>
+    <caption>Simple table with calories chartr</caption>
+    <thead>
+      <tr>
+        <th>Food</th>
+        <th>Amount</th>
+        <th>Total Calories</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Butter</td>
+        <td>1 tbs</td>
+        <td>110</td>
+      </tr>
+      <tr>
+        <td>Cheddar Cheese</td>
+        <td>1 ounce</td>
+        <td>114</td>
+      </tr>
+			<tr>
+        <td>Cottage cheese</td>
+        <td>1/2 cup</td>
+        <td>110</td>
+      </tr>
+			<tr>
+        <td>Cottage cheese(low fat)</td>
+        <td>1/2 cup</td>
+        <td>90</td>
+      </tr>
+			<tr>
+        <td>Milk (low fat)</td>
+        <td>1 cup</td>
+        <td>121</td>
+      </tr>
+			<tr>
+        <td>Swiss cheese</td>
+        <td>1 ounce</td>
+        <td>107</td>
+      </tr>
+				<tr>
+        <td>Yogurt</td>
+        <td>1 cup</td>
+        <td>144</td>
+      </tr>
+				<tr>
+        <td>Butter</td>
+        <td>half spoon</td>
+        <td>38</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
