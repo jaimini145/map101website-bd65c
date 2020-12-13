@@ -15,7 +15,7 @@ sections:
       involved"
 
     actions: []
-    image: images/graceful-lettuce.jpg
+    image: images/clever-sunflower.jpeg
   - section_id: recent-posts
     type: section_posts
     title: Pages
