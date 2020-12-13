@@ -18,7 +18,7 @@ According to my experience, people have different tastes and choices, so we need
 **Calories table:**
 <div class="responsive-table">
   <table>
-    <caption>Simple table with calories chartr</caption>
+    <caption> Calories chart</caption>
     <thead>
       <tr>
         <th>Food</th>
