@@ -9,7 +9,7 @@ excerpt: >-
   Understanding the dairy business and products thoroughly will help you discern
   your advertising assets and weaknesses.
 date: '2018-01-15'
-content_img_path: images/robust-pineapple.jpg
+content_img_path: images/neat-chili.jpg
 template: post
 thumb_img_path: images/Strategies-2.jpg
 ---
