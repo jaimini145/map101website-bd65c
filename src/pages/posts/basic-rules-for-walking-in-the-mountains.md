@@ -6,7 +6,6 @@ excerpt: >-
   undergrowth, or bushes, where forward progress requires pushing vegetation
   aside.
 date: '2018-01-09'
-content_img_path: images/6.jpg
 template: post
 ---
 
