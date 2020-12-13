@@ -8,18 +8,21 @@ template: page
 img_path: images/industry.jpg
 excerpt: It all started in September 2020
 ---
+According to me, setting up a business (Milk dairy) in my hometown was a great opportunity for me.
+I think a product/service that is being produced at one site and is not available to far location due to less transport channels. For example:-In my homeplace people have to travel a lot to get milk and dairy products from dairy and I could import that product /service and could start up my own business that could be beneficial for town people as well as profitable for me.
+The most important source of idea for these business has originated from many locals complaining about trouble of travelling to far dairy for getting many of the dairy products. We should understand what customers want, where they want it, how and when they want a product or service to be supplied and the quality of the product and at a reasonable price. 
+After a survey I can start to plan for that business where I can fulfill customer’s needs as well as think of many more ideas to expand this business idea to another level.
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
-# This is an H1
+# Happy Food Happy People
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+Today, Milk Dairy manufacture and sells milk and milk products including , ice creams,butter, paneer and ghee. The Company also has a diversified with products in fruits & vegetables, frozen vegetables, pulses, processed food like fruit juices, jams, etc. to meet the daily requirements of every household family.
 
-## This is an H2
+## Focused on building sustainablity
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Dairy is committed to bring happiness to every individual with its range offering pure, hygienic and adulteration-free high-quality products which has been the strength, different and heritage of the brand over years.
 
-### This is an H3
+### Quality of milk is of paramount importance of the company
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
