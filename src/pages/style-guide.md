@@ -24,35 +24,16 @@ Dairy is committed to bring happiness to every individual with its range offerin
 
 ### Quality of milk is of paramount importance of the company
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Quality of milk is of paramount importance for the company and hence it has invested extensively in installing high tech-automated machines to ensure high product quality/ reliability and safety.
 
 #### Great people make it work
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+We all are working with farmers and run private orgainisation and we represent interests of hard working womens and mens in the company. Around 12000 employees are working all around to make it happen for people to get proper milk on their tables every morning.
 
-## Quoting
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
+## Animal care
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-<hr />
-
-## Unordered Lists
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-## Ordered Lists
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+From providing shelter and nutritious food to around-the-clock care, tending to dairy cows is a labour of love. When you love working with animals, providing the best possible care comes naturally. Here’s how milky-way dairy farmers are helping their animals.
 
 ## Code Blocks
 
@@ -64,6 +45,7 @@ body {
   color: #333;
   font-family: Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
+	<img src="C:\Users\17052\Desktop\MAP\MAP101_IT_Enterpreneurship\images" alt="Girl in a jacket" width="500" height="600">
 }
 ```
 
@@ -71,12 +53,12 @@ body {
 
 <div class="responsive-table">
   <table>
-    <caption>Simple table with caption and header</caption>
+    <caption>Simple table with calories chartr</caption>
     <thead>
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
+        <th>Food</th>
+        <th>Amount</th>
+        <th>Total Calories</th>
       </tr>
     </thead>
     <tbody>
