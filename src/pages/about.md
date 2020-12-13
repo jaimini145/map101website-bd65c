@@ -15,7 +15,6 @@ But, as consumers generally are more price-focused, there has been a huge demand
 According to my experience, people have different tastes and choices, so we need to produce food according to them what they want. We provide products equally to its quality, the fresh products with reasonable prices.
 
 
-**Calories table:**
 <div class="responsive-table">
   <table>
     <caption> Calories chart</caption>
