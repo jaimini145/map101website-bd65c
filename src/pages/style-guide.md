@@ -35,19 +35,6 @@ We all are working with farmers and run private orgainisation and we represent i
 
 From providing shelter and nutritious food to around-the-clock care, tending to dairy cows is a labour of love. When you love working with animals, providing the best possible care comes naturally. Here’s how milky-way dairy farmers are helping their animals.
 
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-<!-- Some example CSS code -->
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-	<img src="C:\Users\17052\Desktop\MAP\MAP101_IT_Enterpreneurship\images" alt="Girl in a jacket" width="500" height="600">
-}
-```
 
 ## Tables
 
