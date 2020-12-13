@@ -15,7 +15,7 @@ sections:
       involved"
 
     actions: []
-    image: images/great-sycamore.jpg
+    image: images/WhatsApp Image 2020-12-13 at 3.22.59 PM.jpeg
   - section_id: recent-posts
     type: section_posts
     title: Pages
