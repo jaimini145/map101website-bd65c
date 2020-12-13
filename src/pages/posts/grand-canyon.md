@@ -10,7 +10,7 @@ date: '2020-12-01'
 content_img_path: images/perpetual-birch.jpg
 template: post
 thumb_img_path: images/risk1.jpg
-subtitle: 'Mabage '
+subtitle: ''
 ---
 Increasing competition- Competition in the milk sector is increasing. More and more companies and brands are entering their markets and overtaking their profit. Competitors directly threaten the business.
 
