@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Start Fresh Everyday\U0001F341"
+    title: Start Fresh Everyday
     content: All-natural ingredients and fresh products
   - section_id: about
     type: section_content
