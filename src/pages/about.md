@@ -1,6 +1,6 @@
 ---
 title: Our Products
-subtitle: 'Aiwde range of tastefull  products '
+subtitle: 'Aiwide range of tastefull  products '
 img_path: images/hd.jpg
 template: page
 ---
