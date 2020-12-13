@@ -5,7 +5,7 @@ excerpt: >-
   plan based on proper study for research and facts. Marketing encourages or
   attracts customers for products in the company to buy them.
 date: '2020-12-01'
-thumb_img_path: images/market.jpg
+thumb_img_path: images/marketing-image.jpg
 content_img_path: images/melodic-mango.jpg
 template: post
 subtitle: Advanced Marketing
