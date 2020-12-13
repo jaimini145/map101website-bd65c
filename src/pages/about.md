@@ -1,7 +1,7 @@
 ---
 title: Our products
 subtitle: This is a short page about me and my work.
-img_path: images/dairyproducts.jpg
+img_path: images/robust-artichoke.jpg
 template: page
 ---
 
