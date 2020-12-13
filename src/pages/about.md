@@ -1,6 +1,6 @@
 ---
 title: Our Products
-subtitle: This is a short page about me and my work.
+subtitle: 'wide range of products '
 img_path: images/hd.jpg
 template: page
 ---
