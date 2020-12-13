@@ -23,7 +23,7 @@
             {
                 "label": "Our Story",
                 "url": "/style-guide/",
-                "style": "button"
+                "style": "link"
             },
             {
                 "label": "Our products",
