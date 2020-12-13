@@ -5,7 +5,7 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 template: page
-img_path: images/industry.jpg
+img_path: images/FE0819-FAB-Food8-Tippmann.jpg
 excerpt: It all started in September 2020
 ---
 According to me, setting up a business (Milk dairy) in my hometown was a great opportunity for me.
