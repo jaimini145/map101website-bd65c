@@ -15,7 +15,7 @@ sections:
       involved"
 
     actions: []
-    image: images/cowsmilk.jpg
+    image: images/cows.jpg
   - section_id: recent-posts
     type: section_posts
     title: Pages
