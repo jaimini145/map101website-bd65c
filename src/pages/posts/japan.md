@@ -6,7 +6,7 @@ excerpt: >-
   attracts customers for products in the company to buy them.
 date: '2020-12-01'
 thumb_img_path: images/marketing-image.jpg
-content_img_path: images/melodic-mango.jpg
+content_img_path: images/spectacular-rabbit.jpg
 template: post
 subtitle: Advanced Marketing
 canonical_url: ''
