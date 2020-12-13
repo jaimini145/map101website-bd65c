@@ -17,7 +17,8 @@
             {
                 "label": "About Us",
                 "url": "/blog/",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Our Story",
