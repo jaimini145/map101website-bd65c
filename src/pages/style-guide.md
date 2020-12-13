@@ -1,9 +1,6 @@
 ---
 title: Our Story
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: ''
 template: page
 img_path: images/FE0819-FAB-Food8-Tippmann.jpg
 excerpt: It all started in September 2020
