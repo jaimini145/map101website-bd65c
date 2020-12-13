@@ -10,6 +10,4 @@ In the urban, the organisation sells dairy products such as curd and ghee(butter
 
 ###### Additionally, it has high quality products with reasonable prices. 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+According to my experience, people have different tastes and choices, so we need to produce food according to them what they want. We provide products equally to its quality, the fresh products with reasonable prices.
