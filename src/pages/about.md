@@ -4,11 +4,7 @@ subtitle: 'A wide range of tasteful  products '
 img_path: images/hd.jpg
 template: page
 ---
-It has variety of products according to the taste and means of customers like:
--milk
--butter
--ghee
--milk powder ,panner ,cheese,ice-creams ,chocolates and many more.
+It has variety of products according to the taste and means of customers like: milk,butter ,ghee,milk powder ,panner ,cheese,ice-creams ,chocolates and many more.
 
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
