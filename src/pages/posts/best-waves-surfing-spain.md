@@ -1,7 +1,13 @@
 ---
 title: Strategies
 subtitle: A intresting tale about Surfing
-excerpt: ''
+excerpt: >-
+  When marketing a dairy product, the most important aspect of your strategy is
+  determining your competition and audience. By establishing these parameters,
+  you can decide what aspect of your dairy business to highlight and where will
+  be the most effective place to advertise to capture your target audience.
+  Understanding the dairy business and products thoroughly will help you discern
+  your advertising assets and weaknesses.
 date: '2018-01-15'
 content_img_path: images/robust-pineapple.jpg
 template: post
