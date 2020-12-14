@@ -8,7 +8,7 @@ excerpt: >-
   practice for monitoring an organization's financial transactions, such as fund
   acquisition, fund utilization, accounting, payments, risk assessment, and all
   other cash related stuff.
-date: '2021-03-01'
+date: '2020-11-01'
 thumb_img_path: images/finance.jpg
 content_img_path: images/maroon-neptune.jpg
 template: post
