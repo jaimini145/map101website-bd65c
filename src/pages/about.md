@@ -3,7 +3,7 @@ title: Our Products
 subtitle: 'A wide range of tasteful  products! '
 img_path: images/hd.jpg
 template: page
-excerpt: vv
+excerpt: ''
 ---
 It has variety of products according to the taste and means of customers like: milk,butter ,ghee,milk powder,panner,cheese,ice-creams ,chocolates and many more.
 
