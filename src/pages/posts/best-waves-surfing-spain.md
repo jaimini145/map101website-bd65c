@@ -8,7 +8,7 @@ excerpt: >-
   be the most effective place to advertise to capture your target audience.
   Understanding the dairy business and products thoroughly will help you discern
   your advertising assets and weaknesses.
-date: '2019-12-15'
+date: '2020-09-15'
 content_img_path: images/neat-chili.jpg
 template: post
 thumb_img_path: images/Strategies-2.jpg
