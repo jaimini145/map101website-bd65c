@@ -1,6 +1,6 @@
 ---
 title: Strategies
-subtitle: Strategy is strengh
+subtitle: Strategy is strength
 excerpt: >-
   When marketing a dairy product, the most important aspect of your strategy is
   determining your competition and audience. By establishing these parameters,
