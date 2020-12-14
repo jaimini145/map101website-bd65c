@@ -62,9 +62,9 @@ According to my experience, people have different tastes and choices, so we need
         <td>144</td>
       </tr>
 				<tr>
-        <td>Butter</td>
+        <td>Ghee</td>
         <td>half spoon</td>
-        <td>38</td>
+        <td>45</td>
       </tr>
     </tbody>
   </table>
