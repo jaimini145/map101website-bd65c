@@ -3,7 +3,10 @@ title: Marketing
 excerpt: >-
   Marketing plays a huge role in company where there should be good marketing
   plan based on proper study for research and facts. Marketing encourages or
-  attracts customers for products in the company to buy them.
+  attracts customers for products in the company to buy them.We shall create an
+  environment where our stake holders feel happy and our system will be
+  eco-friendly. Through innovation, continuous learning and consistent
+  improvement we shall achieve sustained growth and excellence.
 date: '2020-12-01'
 thumb_img_path: images/marketing-image.jpg
 content_img_path: images/spectacular-rabbit.jpg
