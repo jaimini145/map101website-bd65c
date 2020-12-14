@@ -17,3 +17,5 @@ Increasing competition- Competition in the milk sector is increasing. More and m
 local milk vendors- Today milk sellers are occupying the      place in the industry. Organized distribution of milk they’re doing to producers and customers should to see a gentle decrease in their demand.
 
 chemical contaminants -Increasing chemical contaminants and residual antibiotics in milk.
+
+Packaging- Most of the products that are dealt by Milky-way dairy such as milk, ice creams etc are all perishable in nature and a lot of care and research has to be done on the packaging that can make them last. There is also a need for use of technology in packaging and storage.
